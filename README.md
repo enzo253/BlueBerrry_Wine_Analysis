@@ -1,2 +1,2 @@
 # data-science
-my progress through data science 
+Exploring wine quality through EDA and machine learning to uncover key markers that influence quality. Analyzing patterns in chemical properties, visualizing trends, and leveraging ML models to predict quality scores and identify the most impactful features.
